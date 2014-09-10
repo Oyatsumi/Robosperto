@@ -1,0 +1,32 @@
+::ROBOSPERTO AL 1.0::
+
++=RESUMO=+
+Programa idealizado para simular uma conversa e aprendizado humano através de algoritmos de inteligência artificial, busca e probabilidade.
+
++=COMANDOS AINDA UTILIZÁVEIS=+
+	+ "proteger com senha" -> Protege o banco de dados que contém suas perguntas com uma senha para acesso futuro.
+	+ "apagar última pergunta" -> Apaga a pergunta que o Robosperto respondeu previamente.
+	+ "retirar senha" -> Retira a proteção com senha do banco de dados que contém suas perguntas.
+
++=DIFERENÇA DA VERSÃO "AL" PARA A ANTERIOR "NORMAL"(PRETA)=+
+O Robosperto AL não possui muitos comandos, a funcionalidade do mesmo está mais próxima de uma conversa humana real do que na outra versão; o cálculo da probabilidade do mesmo também foi modificado de forma a considerar também a sintaxe das frases que são enviadas no programa.
+
++=SEGURANÇA=+
+O programa possui uma encriptação criada para o propósito do programa e de eficiência média. Todas as perguntas armazenadas no banco de dados 'banco.bds' estão encriptadas.
+
++=DESENVOLVIMENTO/REQUERIMENTO=+
+Desenvolvido em Java, o programa é multi-plataforma, portanto opera em qualquer plataforma que tenha o JDK 6 instalado.
+Caso o JDK(Java Development Kit) não esteja instalado em sua máquina, você pode adquiri-lo no seguinte link:
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+*Na aba JDK, clique em download*
+
++=SOLUÇÕES=+
+1. Como abrir o programa?
+	1.1.Para usuários windows, caso arquivos .jar não estejam associados ao JDK(Java Development Kit), utilize o arquivo "Robosperto.bat" para abrir o programa. Ou simplesmente clique com o botão direito sobre o arquivo RobospertoAL.jar, vá em Abrir com... e escolha o Oracle JDK.
+	1.2.Para usuários linux e outros, caso o JDK(Java Development Kit) não esteja associado ao arquivo .jar, abra o batch(terminal) navegue até a pasta que se encontra o arquivo Robosperto.jar e digite "java -jar Robosperto.jar".
+
+
++=CRÉDITOS=+
+Desenvolvedor: Érick Oliveira Rodrigues
+Licença gratuita e para quaisquer fins.
+Programa em português.
