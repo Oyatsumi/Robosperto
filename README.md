@@ -6,7 +6,6 @@ This program returns an answer to an input question. The correct answer is stimu
 
 
 A portuguese description of the software:
-::ROBOSPERTO1.0::
 
 +=RESUMO=+
 Programa idealizado para simular inteligência artificial com algoritmos de busca e probabilidade. Uma outra funcionalidade do mesmo é armazenar perguntas que o usuário pode escolher; as mesmas podem ser senhas, lembretes, etc. Portanto há também a possibilidade de usar o programa como um bloco de notas interativo e eficiente.
